@@ -1,0 +1,4 @@
+name = "DifferentialOperators"
+uuid = "e3125231-e3bb-4001-ab9c-d36c674fac43"
+authors = ["Tom Trogdon <trogdon@uw.edu>"]
+version = "0.1.0"
